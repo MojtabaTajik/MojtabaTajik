@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 Bibliophile, software developer who interested in the field of security research.
 
-| ![MojtabaTajik's github stats](https://github-readme-stats.vercel.app/api?username=MojtabaTajik&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=true) | ![MojtabaTajik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MojtabaTajik&layout=compact&theme=dracula&title_color=FFFFFF)
+![MojtabaTajik's github stats](https://github-readme-stats.vercel.app/api?username=MojtabaTajik&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=true)![MojtabaTajik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MojtabaTajik&layout=compact&theme=dracula&title_color=FFFFFF) |
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-MojtabaTajik-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mojtaba-tajik/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@MojtabaTajik-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=MojtabaTajik "Follow on Twitter")
