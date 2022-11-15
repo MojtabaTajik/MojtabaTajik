@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bibliophile, software developer who interested in the field of security research.
+Software engineer with software security skills who loves to analyze the internals of existing systems, improve them, and learn from them to design more robust systems.
 
 ![MojtabaTajik's github stats](https://github-readme-stats.vercel.app/api?username=MojtabaTajik&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=true)![MojtabaTajik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MojtabaTajik&layout=compact&theme=dracula&title_color=FFFFFF)
 
