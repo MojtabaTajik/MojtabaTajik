@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Software engineer with software security skills who loves to analyze the internals of existing systems, improve them, and learn from them to design more robust systems.
-
-![MojtabaTajik's github stats](https://github-readme-stats.vercel.app/api?username=MojtabaTajik&show_icons=true&theme=dracula&title_color=4caf50&icon_color=ffb74d&hide_title=true)
-
-[![Linkedin Badge](https://img.shields.io/badge/-MojtabaTajik-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mojtaba-tajik/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-BinBreaker-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/BinBreaker "My Telegram Channel")
