@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 # Mojtaba Tajik - Senior Software Engineer & Security Researcher
 
-Hello! 👋 I'm Mojtaba Tajik, a Senior Software Engineer and Security Researcher with a passion for dissecting the internals of existing systems, refining them, and using those insights to design more robust solutions. While my primary expertise lies in backend development and software security, I also have a background in electronics, circuit design, and microcontroller programming. As a security researcher, my focus has been on Microsoft-related technologies.
+Hello! 👋 I'm Mojtaba Tajik, a Senior Software Engineer and Security Researcher passionate about dissecting the internals of existing systems, refining them, and using those insights to design more robust solutions. While my primary expertise lies in backend development and software security, I also have a background in electronics, circuit design, and microcontroller programming. As a security researcher, my focus has been on Microsoft-related technologies.
 
 ## Core Skills
 - **Backend Development**: Expertise in crafting scalable and reliable microservices.
 - **Software Security**: Dedicated to building secure applications with a particular emphasis on data protection and breach prevention.
 - **Performance Optimization**: Proven track record in enhancing system performance.
 - **DevOps**: Experienced in implementing CI/CD pipelines and effective monitoring solutions.
-- **Electronics & Circuit Design**: Proficient in electronic circuit design, particularly with AVR and Atmel microcontrollers.
+- **Electronics & Circuit Design**: Proficient in electronic circuit design, particularly with AVR microcontrollers.
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or questions!
