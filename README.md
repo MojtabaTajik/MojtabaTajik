@@ -24,4 +24,4 @@ Hello! 👋 I'm Mojtaba Tajik, a Senior Software Engineer and Security Researche
 - **DevOps**: Experienced in implementing CI/CD pipelines and effective monitoring solutions.
 - **Electronics & Circuit Design**: Proficient in electronic circuit design, particularly with AVR microcontrollers.
 
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or questions!
+![Moji's github stats](https://github-readme-stats.vercel.app/api?username=MojtabaTajik&show_icons=true&theme=tokyonight&title_color=4caf50&icon_color=ffb74d&hide_title=true)
