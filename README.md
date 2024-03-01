@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Mojtaba Tajik - Software Engineer\Security Researcher
 
-Hello! 👋 I'm Mojtaba Tajik, a Senior Software Engineer and Security Researcher passionate about dissecting the internals of existing systems, refining them, and using those insights to design more robust solutions. While my primary expertise lies in backend development and software security, I also have a background in electronics, circuit design, and microcontroller programming. As a security researcher, my focus has been on Microsoft-related technologies.
+Hello! 👋 I'm Mojtaba Tajik, a Software Engineer and Security Researcher passionate about dissecting the internals of existing systems, refining them, and using those insights to design more robust solutions.
